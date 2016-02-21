@@ -3,7 +3,7 @@
 
 Template for a simple Vaadin application that  works with SpringMVC and SpringWebFlow for dedicated URL
 localhost:8080/spring ------->uses Spring MVC and JSP resolver
-localhost:8080/vaadin/main--->uses VaadinSpringServlet
+<br/>localhost:8080/vaadin/main--->uses VaadinSpringServlet
 
 Workflow
 ========
