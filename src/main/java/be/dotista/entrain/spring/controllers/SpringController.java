@@ -10,7 +10,6 @@ import org.springframework.web.servlet.ModelAndView;
  * Created by Dorito on 20-02-16.
  */
 
-@Configuration
 @Controller
 @RequestMapping("/spring")
 
