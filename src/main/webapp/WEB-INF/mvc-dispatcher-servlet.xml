@@ -2,7 +2,7 @@
 
 
 
-    <bean class="be.dotista.entrain.spring.controllers.SpringController" />
+
 
     <bean id="viewResolver"
           class="org.springframework.web.servlet.view.InternalResourceViewResolver" >
